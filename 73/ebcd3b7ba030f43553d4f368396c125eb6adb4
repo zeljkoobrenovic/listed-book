@@ -1,0 +1,167 @@
+.gitignore
+  s_c79795745a7cdc::t_f24b717fcfbfbf 1-5
+manuscript/Book.txt
+  s_c79795745a7cdc::t_590876ae80a246 1-69
+manuscript/advertising-platforms.md
+  s_c79795745a7cdc::t_49942f4a2bd9e2 1-338
+manuscript/ai-in-listing-systems.md
+  s_c79795745a7cdc::t_b7e928c04d9669 1-411
+manuscript/attribute-schemas.md
+  s_c79795745a7cdc::t_3234ba61a10902 1-439
+manuscript/bibliography.md
+  s_c79795745a7cdc::t_30a565cbf186d5 1-775
+manuscript/book-title.md
+  s_c79795745a7cdc::t_22901b6669e801 1-17
+manuscript/bounded-contexts.md
+  s_c79795745a7cdc::t_9e98078ac586f6 1-395
+manuscript/business-capabilities.md
+  s_c79795745a7cdc::t_716713438303ed 1-379
+manuscript/case-adevinta.md
+  s_c79795745a7cdc::t_7628bb912e7c98 1-440
+manuscript/case-automotive.md
+  s_c79795745a7cdc::t_b834bd038d4d7d 1-433
+manuscript/case-aviv.md
+  s_c79795745a7cdc::t_26bb2116f5ce3d 1-372
+manuscript/case-ebay-classifieds.md
+  s_c79795745a7cdc::t_ab9f2bdb2810bf 1-420
+manuscript/case-olx.md
+  s_c79795745a7cdc::t_70d9052354a678 1-440
+manuscript/case-property-portals.md
+  s_c79795745a7cdc::t_adc408472a94eb 1-412
+manuscript/categories-and-taxonomies.md
+  s_c79795745a7cdc::t_d373ba97229bf0 1-424
+manuscript/data-platform.md
+  s_c79795745a7cdc::t_73d554315d1b45 1-432
+manuscript/entity-resolution.md
+  s_c79795745a7cdc::t_a69b006230dbbd 1-333
+manuscript/event-driven-listings.md
+  s_c79795745a7cdc::t_4f20c1e7d82093 1-428
+manuscript/experimentation.md
+  s_c79795745a7cdc::t_e0f977b2c442de 1-377
+manuscript/export-manifest.json
+  s_c79795745a7cdc::t_5a88d4a2f4375c 1-3587
+manuscript/fraud-prevention.md
+  s_c79795745a7cdc::t_ff91ff0a409a52 1-427
+manuscript/glossary.md
+  s_c79795745a7cdc::t_e3bec0bffacf5a 1-540
+manuscript/identity-and-verification.md
+  s_c79795745a7cdc::t_40e061fa567ac7 1-440
+manuscript/industry-evolution.md
+  s_c79795745a7cdc::t_dab3473597eeec 1-457
+manuscript/introduction.md
+  s_c79795745a7cdc::t_045801683913ba 1-214
+manuscript/liquidity-and-network-effects.md
+  s_c79795745a7cdc::t_907bc0f8083222 1-363
+manuscript/listing-aggregate.md
+  s_c79795745a7cdc::t_f1ab547b7fe952 1-442
+manuscript/listing-data-management.md
+  s_c79795745a7cdc::t_cf496538e8b821 1-388
+manuscript/listing-ingestion.md
+  s_c79795745a7cdc::t_62c9d9e1fd8c17 1-403
+manuscript/location-and-geo.md
+  s_c79795745a7cdc::t_883ef09c7bb4a1 1-453
+manuscript/long-term-evolution.md
+  s_c79795745a7cdc::t_14baea97328875 1-473
+manuscript/map-search.md
+  s_c79795745a7cdc::t_c0da1a674ef521 1-377
+manuscript/marketplace-regulation.md
+  s_c79795745a7cdc::t_09634fdf14c56c 1-422
+manuscript/marketplace-taxonomy.md
+  s_c79795745a7cdc::t_e55a265c434f67 1-377
+manuscript/media-pipeline.md
+  s_c79795745a7cdc::t_52e07bae10ee64 1-368
+manuscript/meet-veldmark.md
+  s_c79795745a7cdc::t_bcd1a6fdb17384 1-286
+manuscript/messaging-and-leads.md
+  s_c79795745a7cdc::t_a605a770e6e99d 1-413
+manuscript/ml-platform.md
+  s_c79795745a7cdc::t_f9410eb4cf2220 1-397
+manuscript/modernization-and-migration.md
+  s_c79795745a7cdc::t_ea97998cc9adff 1-421
+manuscript/monetization-models.md
+  s_c79795745a7cdc::t_58e6b29e0922b6 1-459
+manuscript/multi-country-platforms.md
+  s_c79795745a7cdc::t_25ceca2bdb9b04 1-407
+manuscript/normalization-and-enrichment.md
+  s_c79795745a7cdc::t_ea0fe573a30f9a 1-407
+manuscript/organizing-marketplace-engineering.md
+  s_c79795745a7cdc::t_6e7488cd215161 1-441
+manuscript/part-1.md
+  s_c79795745a7cdc::t_80f02e685c806b 1-62
+manuscript/part-2.md
+  s_c79795745a7cdc::t_5754c38982f444 1-62
+manuscript/part-3.md
+  s_c79795745a7cdc::t_a197733d5b2dbe 1-59
+manuscript/part-4.md
+  s_c79795745a7cdc::t_7f02ba5d200c67 1-60
+manuscript/part-5.md
+  s_c79795745a7cdc::t_b6b096d3a3c5cf 1-57
+manuscript/part-6.md
+  s_c79795745a7cdc::t_e3469dd34231e7 1-59
+manuscript/part-7.md
+  s_c79795745a7cdc::t_3d19e2da8db84c 1-61
+manuscript/part-8.md
+  s_c79795745a7cdc::t_61827f468fce57 1-59
+manuscript/part-9.md
+  s_c79795745a7cdc::t_5f2c82b09144e2 1-84
+manuscript/platform-consolidation.md
+  s_c79795745a7cdc::t_4e1bab21ff8dfb 1-363
+manuscript/products-and-entitlements.md
+  s_c79795745a7cdc::t_28f56de078bd04 1-403
+manuscript/professional-seller-tooling.md
+  s_c79795745a7cdc::t_8f02bb719aeffb 1-371
+manuscript/publication-pipeline.md
+  s_c79795745a7cdc::t_e970dc6d00708a 1-361
+manuscript/query-understanding.md
+  s_c79795745a7cdc::t_19a833dcee8ab9 1-433
+manuscript/ranking.md
+  s_c79795745a7cdc::t_6b653bd7c58eb2 1-436
+manuscript/recommendations.md
+  s_c79795745a7cdc::t_01cbb5617ad03e 1-380
+manuscript/reliability-and-scale.md
+  s_c79795745a7cdc::t_4b63f2dae98df5 1-442
+manuscript/saved-searches-and-alerts.md
+  s_c79795745a7cdc::t_1b6b816f85c4d1 1-401
+manuscript/search-architecture.md
+  s_c79795745a7cdc::t_dbd3a1075085f4 1-460
+manuscript/section-01.md
+  s_c79795745a7cdc::t_9a0f6bd16663ef 1-2
+manuscript/section-11.md
+  s_c79795745a7cdc::t_bd660161d2ba6d 1-6
+manuscript/sellers-and-accounts.md
+  s_c79795745a7cdc::t_bd00fe081591a0 1-403
+manuscript/toolkit.md
+  s_c79795745a7cdc::t_51ebcf97ffe063 1-723
+manuscript/transactions-and-payments.md
+  s_c79795745a7cdc::t_6df551c3014900 1-391
+manuscript/trust-and-safety-architecture.md
+  s_c79795745a7cdc::t_7711ad6580d5f0 1-487
+manuscript/vertical-requirements.md
+  s_c79795745a7cdc::t_e8aad5af50b54a 1-463
+manuscript/web-and-seo-architecture.md
+  s_c79795745a7cdc::t_eda6fddf74182b 1-443
+manuscript/where-listing-systems-go-wrong.md
+  s_c79795745a7cdc::t_353f9fd9a33a7e 1-489
+publish.sh
+  s_c79795745a7cdc::t_abdb298b42fa29 1-8
+scripts/leanpub_build.py
+  s_c79795745a7cdc::t_92f8ca0ec5ce91 1-128
+update.sh
+  s_c79795745a7cdc::t_d8393a9eb72e04 1-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "73ebcd3b7ba030f43553d4f368396c125eb6adb4",
+  "prompts": {},
+  "sessions": {
+    "s_c79795745a7cdc": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fae6a289-cfa0-449a-8385-7b4381f86340",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
