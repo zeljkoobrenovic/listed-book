@@ -1,0 +1,146 @@
+manuscript/advertising-platforms.md
+  h_32d60cd4daf66e 20,22,261
+manuscript/ai-in-listing-systems.md
+  h_32d60cd4daf66e 22,219,331
+manuscript/bibliography.md
+  h_32d60cd4daf66e 16
+manuscript/book-title.md
+  h_32d60cd4daf66e 15
+manuscript/bounded-contexts.md
+  h_32d60cd4daf66e 20-21,156,158,310
+manuscript/business-capabilities.md
+  h_32d60cd4daf66e 20-21,309,330
+manuscript/case-adevinta.md
+  h_32d60cd4daf66e 20-22,71,100,292,319
+manuscript/case-automotive.md
+  h_32d60cd4daf66e 21-22
+manuscript/case-aviv.md
+  h_32d60cd4daf66e 20-21
+manuscript/case-ebay-classifieds.md
+  h_32d60cd4daf66e 20-21,177
+manuscript/case-olx.md
+  h_32d60cd4daf66e 20-22,206
+manuscript/case-property-portals.md
+  h_32d60cd4daf66e 20-21
+manuscript/categories-and-taxonomies.md
+  h_32d60cd4daf66e 22,116
+manuscript/data-platform.md
+  h_32d60cd4daf66e 21
+manuscript/entity-resolution.md
+  h_32d60cd4daf66e 20-21,172,238,278
+manuscript/event-driven-listings.md
+  h_32d60cd4daf66e 21-22
+manuscript/experimentation.md
+  h_32d60cd4daf66e 21
+manuscript/export-manifest.json
+  h_32d60cd4daf66e 23-33,35-36,38-89,627-632,685-702,711-794,797-800,3245,3248-3250,3256-3257,3259-3297,3299-3314,3667-3668,3670-3677,3681-3688,3691-3697
+manuscript/fraud-prevention.md
+  h_32d60cd4daf66e 20-22
+manuscript/glossary.md
+  h_32d60cd4daf66e 42,44-45,47-50,52-53,84,229,462,514-519,522,526,529,532,534
+manuscript/identity-and-verification.md
+  h_32d60cd4daf66e 20-21,212,334
+manuscript/industry-evolution.md
+  h_32d60cd4daf66e 20-22,147,179-180,272,348,350
+manuscript/introduction.md
+  h_32d60cd4daf66e 181
+manuscript/liquidity-and-network-effects.md
+  h_32d60cd4daf66e 22,292
+manuscript/listing-aggregate.md
+  h_32d60cd4daf66e 21-22
+manuscript/listing-data-management.md
+  h_32d60cd4daf66e 20,22,139,319
+manuscript/listing-ingestion.md
+  h_32d60cd4daf66e 22
+manuscript/location-and-geo.md
+  h_32d60cd4daf66e 21-22
+manuscript/long-term-evolution.md
+  h_32d60cd4daf66e 20-21,64-69,73,315,319,321,323-326,349
+manuscript/map-search.md
+  h_32d60cd4daf66e 20,22,303,317
+manuscript/marketplace-regulation.md
+  h_32d60cd4daf66e 21-22,184,321,349
+manuscript/marketplace-taxonomy.md
+  h_32d60cd4daf66e 20-21,282,288
+manuscript/media-pipeline.md
+  h_32d60cd4daf66e 20
+manuscript/meet-veldmark.md
+  h_32d60cd4daf66e 20-21,170,173-174,177
+manuscript/messaging-and-leads.md
+  h_32d60cd4daf66e 20
+manuscript/ml-platform.md
+  h_32d60cd4daf66e 20-21,274,311
+manuscript/modernization-and-migration.md
+  h_32d60cd4daf66e 20,158,257,277,350
+manuscript/monetization-models.md
+  h_32d60cd4daf66e 21-22,230,361,373,382,384
+manuscript/multi-country-platforms.md
+  h_32d60cd4daf66e 20-22,111,187,288,345
+manuscript/normalization-and-enrichment.md
+  h_32d60cd4daf66e 21-22,167,328,332
+manuscript/organizing-marketplace-engineering.md
+  h_32d60cd4daf66e 20-22,93,264,343,369,374
+manuscript/part-1.md
+  h_32d60cd4daf66e 23-24
+manuscript/part-3.md
+  h_32d60cd4daf66e 21
+manuscript/part-4.md
+  h_32d60cd4daf66e 20-21
+manuscript/part-5.md
+  h_32d60cd4daf66e 21-22
+manuscript/part-6.md
+  h_32d60cd4daf66e 20-22
+manuscript/part-7.md
+  h_32d60cd4daf66e 20-22
+manuscript/part-8.md
+  h_32d60cd4daf66e 20-22
+manuscript/part-9.md
+  h_32d60cd4daf66e 20-22
+manuscript/platform-consolidation.md
+  h_32d60cd4daf66e 20-21,60
+manuscript/products-and-entitlements.md
+  h_32d60cd4daf66e 14,20-22,169,355
+manuscript/professional-seller-tooling.md
+  h_32d60cd4daf66e 22
+manuscript/publication-pipeline.md
+  h_32d60cd4daf66e 22,189
+manuscript/query-understanding.md
+  h_32d60cd4daf66e 22
+manuscript/ranking.md
+  h_32d60cd4daf66e 14,20,22,90,275,370,373
+manuscript/recommendations.md
+  h_32d60cd4daf66e 21,327
+manuscript/reliability-and-scale.md
+  h_32d60cd4daf66e 20,22,130,208,303-304,306
+manuscript/saved-searches-and-alerts.md
+  h_32d60cd4daf66e 163
+manuscript/search-architecture.md
+  h_32d60cd4daf66e 20,254,389
+manuscript/sellers-and-accounts.md
+  h_32d60cd4daf66e 20-21
+manuscript/toolkit.md
+  h_32d60cd4daf66e 18,163,388
+manuscript/transactions-and-payments.md
+  h_32d60cd4daf66e 20,22,214,262,295,318
+manuscript/trust-and-safety-architecture.md
+  h_32d60cd4daf66e 22
+manuscript/vertical-requirements.md
+  h_32d60cd4daf66e 21,268,321,332,389
+manuscript/web-and-seo-architecture.md
+  h_32d60cd4daf66e 258
+manuscript/where-listing-systems-go-wrong.md
+  h_32d60cd4daf66e 12,38,40-41,43-46,48-49,64-67,85-88,106-109,122-123,127-130,148-151,164-165,169-172,185-186,190-193,211-214,227-228,232-235,248-249,253-256,269-270,274-277,290-291,295-298,316-319,332-333,337-341,345,353-354,358-361,381,385,389,391,393,395,407,409-410,412-415,417-418,429,434,436,499
+scripts/leanpub_build.py
+  h_32d60cd4daf66e 88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "565b1df764675a1abb3046f55625217e0e0ae570",
+  "prompts": {},
+  "humans": {
+    "h_32d60cd4daf66e": {
+      "author": "Zeljko Obrenovic <zeljkoobrenovic@yahoo.com>"
+    }
+  }
+}
